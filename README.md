@@ -1,5 +1,7 @@
 #  Sales & Profit Dashboard (Excel)
 
+ Built using Microsoft Excel with Pivot Tables, Pivot Charts and Slicers.
+
 ##  Project Overview
 
 This project presents an interactive **Sales & Profit Dashboard** built using Microsoft Excel.
